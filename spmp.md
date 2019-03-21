@@ -168,7 +168,7 @@ BERBASIS WEBSITE (ULine)</H1>
 						2.4.5.	Tester<br>
 						<ol>
 						Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error yang dilewatkan, maka konsumen akan dirugikan.<br>
-						</ol>
+						</ol></ol></ol><br>
 		<b> 
 		3. Proses Manajerial 
 		</b>
@@ -253,6 +253,7 @@ BERBASIS WEBSITE (ULine)</H1>
 				<li>Kastuti sebagai Database Administrator</li>	
 				<li>Reza Pahlevi Yahya sebagai Programmer</li>
 				</ol></ol></ol><br>
+		</ol>
 		<b> 
 		4. Proses Teknis
 		</b>
