@@ -169,3 +169,100 @@ BERBASIS WEBSITE (ULine)</H1>
 						<ol>
 						Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error yang dilewatkan, maka konsumen akan dirugikan.<br>
 						</ol>
+		<b> 
+		3. Proses Manajerial 
+		</b>
+		<ol>
+			3.1.	Tujuan dan prioritas manajemen<br>
+			<ol>
+				3.1.1.	Prioritas Jadwal<br>
+				<ol>
+				Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat, dokumen  projek, jadwal  kegiatan, struktur pembuatan projek dan organisasi.<br></ol>
+				3.1.2.	Budget
+				<ol>Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan requirtment proyek.<br></ol>
+				3.1.3.	Kemampuan (Kualitas dan Reusability)<br>
+				<ol>Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek, juga berbasis desktop yang membuat konsumen merasa lebih budah dalam interaksinya.<br></ol></ol>
+				3.2.	Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan<br>
+				Asumsi proyek adalah sebagai berikut :<br>
+				<ol>
+				<li>Tim terdiri dari 3 orang</li>
+				<li>Ketersediaan peralatan dan perangkat lunak</li>
+				<li>Persetujuan pendanaan</li>
+				</ol>
+				Substansi Proyek adalah sebagai berikut :<br>
+				<ol>
+				<li>Aplikasi ini bisa membuat siswa menjadi lebih bersemangat dalam mengerjakan soal UNBK.</li>
+				<li>Tersedianya latihan-latihan soal</li>
+				</ol>
+				Kendala proyek adalah sebagai berikut :<br>
+				<ol>
+				<li>Waktu</li>
+				<li>Anggaran</li>
+				<li>Waktu Pengerjaan</li>
+				<li>Ketersediaan Perangkat Lunak dan Perangkat Keras beserta spesifikasinya</li>
+				</ol>
+				3.3.	Manajemen resiko <br>
+				<table>
+					<tr>
+						<td>Resiko</td>
+						<td>Teknik Memanajemen Resiko</td>
+					</tr>
+					<tr>
+						<td>Estimasi biaya dan waktu yang tidak realitis</td>
+						<td>1. Membuat berapa biaya etimasi<br> 
+							2. Desain untuk biaya<br> 
+							3. Merekam danmenganalisa project yang akan dibuat</td>
+					</tr>
+					<tr>
+						<td>Mengembangkan Software yang salah</td>
+						<td>1. Evaluasi project yang ditingkatkan Buat metode spesifikasi yang formal Survai pengguna <br>
+						2. Buat prototype</td>
+					</tr>
+					<tr>
+						<td>Terlambat membangun kebutuhan software</td>
+						<td>1. Mengubah prosedur kendali<br>  
+							2. Membatasi perubahan terlalu banyak<br>
+							3. Meningkatkan pengembangan (akibat perubahan)</td>
+					</tr>
+					<tr>
+						<td>Kegagalan pada komponen komponen</td>
+						<td>1. Inspeksi <br>
+							2. Analisis project yang akan di buat <br> 
+							3. Keterbatasan bahan-bahan</td>
+					</tr>
+					<tr>
+						<td>Pengembanganya terlalu sulit secara teknis</td>
+						<td>1. Analisa teknis 
+							2. Analisa biaya maanfaat 
+							3. Analisa software</td>
+					</tr>
+					</table>
+				3.4.	Mekanisme monitoring dan kontroling <br>
+				<ol>
+				Proses monitoring dilakukan secara tim, adapun proses pelaksanaannya yaitu :<br>
+				<ol>
+					<li>Rapat proyek mingguan</li>
+					<li>Penyimpanan dokumen bersama</li>
+					<li>Survei ke Mitra (SMAN 1 Jatibarang)</li>
+					</ol></ol>
+				3.5.	Perencanaan staf <br>
+				<ol>
+				Tim Project untuk aplikasi ini meliputi :<br>
+				<ol>
+				<li>Devia Suci Khoirun Nissa Sebagai Project Manager</li>
+				<li>Kastuti sebagai Database Administrator</li>	
+				<li>Reza Pahlevi Yahya sebagai Programmer</li>
+				</ol></ol></ol><br>
+		<b> 
+		4. Proses Teknis
+		</b>
+		<ol>
+		4.1.	Metoda, tool, dan teknik  <br>
+		<ol>
+		Metoda yang kami gunakan yaitu dengan cara menginputkan data yang digunakan sebagai indikator untuk menentukan nilai yang diharapkan. Tools yang digunakan adalah, database Mysql,Sublime sebagai text editor, Laragon untuk pendukung laravel. Teknik yang digunakan adalah pemrograman berbasis objek. <br></ol>
+		4.2.	Dokumentasi perangkat lunak<br>
+		<ol>
+		Dokumentasi perangkat lunak yang digunakan berdasarkan standar internasional IEEE, karena telah menyediakan kerangka kerja yang menghubungkan seluruh spektrum siklus hidup perangkat lunak. <br> </ol>
+		4.3.	Fungsi-fungsi pendukung proyek <br>
+		<ol> 
+		Kami membutuhkan technical support di bagian desain project. Kami membutuhkan technical support di bagian coding program sebanyak 2-3 orang. Kami membutuhkan specialist di bagian database sebanyak 1-2 orang.<br></ol></ol><br/>
